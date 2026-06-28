@@ -56,9 +56,9 @@ export default function TrainingPage() {
         <div className="space-y-12">
           {[
             { title: "Strength", rows: testResults.strength },
-            { title: "Speed", rows: testResults.speed },
             { title: "Jump", rows: testResults.jump },
             { title: "Endurance", rows: testResults.endurance },
+            { title: "Sprint", rows: testResults.speed },
           ].map(({ title, rows }) => (
             <div key={title}>
               <p className="text-xs font-medium text-[#888780] uppercase tracking-wider mb-5">{title}</p>

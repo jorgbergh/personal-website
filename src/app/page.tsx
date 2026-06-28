@@ -112,6 +112,7 @@ const education = [
           "UGBA 101A — Microeconomic Analysis for Business Decisions",
           "BUSADM 460.1 — Marketing Management",
           "INDENG 198 — Introduction to Quantitative Finance",
+          "SOCIOL 198 — Directed Group Study for Undergraduates",
         ],
       },
       {
