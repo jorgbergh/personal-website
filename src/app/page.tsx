@@ -474,6 +474,7 @@ export default function Home() {
             </p>
             <p className="text-sm text-[#444340] leading-relaxed">
               Outside of training I&apos;m into poker, philosophy, dog training, and small game hunting.
+              I&apos;ve also been part of Poker@Berkeley (Berkeley&apos;s poker club), NTNUI Basketball, and NTNUI Volleyball.
             </p>
             <div className="pt-2">
               <Link href="/training"
