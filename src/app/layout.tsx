@@ -42,10 +42,6 @@ export default function RootLayout({
                 className="text-xs text-[#999890] hover:text-[#111110] transition-colors font-[family-name:var(--font-geist-mono)]">
                 LinkedIn
               </a>
-              <a href="https://x.com/jorgbergh" target="_blank" rel="noopener noreferrer"
-                className="text-xs text-[#999890] hover:text-[#111110] transition-colors font-[family-name:var(--font-geist-mono)]">
-                X
-              </a>
               <a href="mailto:jrg.bergh@gmail.com"
                 className="text-xs text-[#999890] hover:text-[#111110] transition-colors font-[family-name:var(--font-geist-mono)]">
                 Email
